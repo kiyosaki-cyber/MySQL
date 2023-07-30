@@ -1,0 +1,26 @@
+Problem statement: 
+
+People rarely have a platform to set their financial and expenditure targets therefore end up spending their hard-earned money on things they did not intend to.
+
+Solution:
+
+People need to have a platform that they can set budget targets.
+
+Objectives:
+
+ 1  An app that user can use to set their expenditure targets.
+
+2  An app that users can view their targets regularly to remind     themselves of their targets.
+
+3  An app that a user can sign up to and login to their account to ensure safety of their account data 
+
+Expecations:
+1 App that can authenticate each user and only allow them to access only their account data through sign up and login forms
+
+2 App that user can set out their expenditure using a prebuilt form 
+
+3 App that users can view their targets
+
+4 App that users can navigate easily from one page to another.
+
+
